@@ -1,0 +1,8 @@
+prefix=/home/zyl/catkin_ws2/devel
+
+Name: klt_feature_tracker
+Description: Description of klt_feature_tracker
+Version: 0.0.0
+Cflags: -I/home/zyl/catkin_ws2/devel/include -I/home/zyl/catkin_ws2/src/mavlink_sitl_gazebo/external/OpticalFlow/external/klt_feature_tracker/include
+Libs: -L${prefix}/lib -lklt_feature_tracker
+Requires: 

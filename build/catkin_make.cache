@@ -1,0 +1,2 @@
+mavlink_sitl_gazebo:multi_drone:mytest:offboard_py:tkof_hov_land:wolf_drone
+-DCATKIN_DEVEL_PREFIX=/home/zyl/catkin_ws2/devel -DCMAKE_INSTALL_PREFIX=/home/zyl/catkin_ws2/install -G Unix Makefiles
